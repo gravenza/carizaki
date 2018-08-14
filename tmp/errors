@@ -1,0 +1,2 @@
+[28-Jun-2018 17:09:17 Asia/Jakarta] Unexpected condition from IMAP server, closed or corrupt connection to IMAP. Possible mailbox corruption.
+[28-Jun-2018 17:09:17 Asia/Jakarta] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/rcube_imap_generic.php on line 226

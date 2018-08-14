@@ -1,0 +1,18 @@
+[29-Sep-2015 00:33:23 UTC] PHP Warning:  include(../config/koneksi.php): failed to open stream: No such file or directory in /home/gravenza/public_html/systemadmin/ajax/select_category.php on line 4
+[29-Sep-2015 00:33:23 UTC] PHP Warning:  include(../config/koneksi.php): failed to open stream: No such file or directory in /home/gravenza/public_html/systemadmin/ajax/select_category.php on line 4
+[29-Sep-2015 00:33:23 UTC] PHP Warning:  include(): Failed opening '../config/koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gravenza/public_html/systemadmin/ajax/select_category.php on line 4
+[29-Sep-2015 00:33:23 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/gravenza/public_html/systemadmin/ajax/select_category.php on line 5
+[29-Sep-2015 00:33:23 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/gravenza/public_html/systemadmin/ajax/select_category.php on line 5
+[29-Sep-2015 00:33:23 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/gravenza/public_html/systemadmin/ajax/select_category.php on line 7
+[29-Sep-2015 00:37:00 UTC] PHP Warning:  include(../config/koneksi.php): failed to open stream: No such file or directory in /home/gravenza/public_html/systemadmin/ajax/select_category.php on line 4
+[29-Sep-2015 00:37:00 UTC] PHP Warning:  include(../config/koneksi.php): failed to open stream: No such file or directory in /home/gravenza/public_html/systemadmin/ajax/select_category.php on line 4
+[29-Sep-2015 00:37:00 UTC] PHP Warning:  include(): Failed opening '../config/koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gravenza/public_html/systemadmin/ajax/select_category.php on line 4
+[29-Sep-2015 00:37:00 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/gravenza/public_html/systemadmin/ajax/select_category.php on line 5
+[29-Sep-2015 00:37:00 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/gravenza/public_html/systemadmin/ajax/select_category.php on line 5
+[29-Sep-2015 00:37:00 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/gravenza/public_html/systemadmin/ajax/select_category.php on line 7
+[29-Sep-2015 00:38:38 UTC] PHP Warning:  include(../config/koneksi.php): failed to open stream: No such file or directory in /home/gravenza/public_html/systemadmin/ajax/select_category.php on line 4
+[29-Sep-2015 00:38:38 UTC] PHP Warning:  include(../config/koneksi.php): failed to open stream: No such file or directory in /home/gravenza/public_html/systemadmin/ajax/select_category.php on line 4
+[29-Sep-2015 00:38:38 UTC] PHP Warning:  include(): Failed opening '../config/koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gravenza/public_html/systemadmin/ajax/select_category.php on line 4
+[29-Sep-2015 00:38:38 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/gravenza/public_html/systemadmin/ajax/select_category.php on line 5
+[29-Sep-2015 00:38:38 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/gravenza/public_html/systemadmin/ajax/select_category.php on line 5
+[29-Sep-2015 00:38:38 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/gravenza/public_html/systemadmin/ajax/select_category.php on line 7
